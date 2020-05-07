@@ -6,13 +6,13 @@
 ☆  日 期：2020-05                                                          ☆
 ☆  开 发：草札(www.caozha.com)                                              ☆
 ☆  鸣 谢：穷店(www.qiongdian.com) 品络(www.pinluo.com)                      ☆
-☆  Git仓库: https://gitee.com/caozha/caozha-domain-whois-query-php         ☆
+☆  Git仓库: https://gitee.com/caozha/caozha-whois                          ☆
 ☆  Copyright ©2020 www.caozha.com All Rights Reserved.                    ☆
 ☆                                                                         ☆
 ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
 */
 	
-class caozha_whois_query {
+class caozha_whois {
 
 	var $whois_servers = array(
 		//Whois服务器，参考：http://www.iana.org/domains/root/db
