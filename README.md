@@ -1,6 +1,6 @@
-﻿# 草札域名Whois查询类（PHP）
+# caozha-whois（PHP）
 
-草札域名Whois查询类（PHP），支持全球大部分域名的whois查询，支持中文域名在内的多种域名后缀，包括：.com，.net，.cn，.com.cn，.org，.biz，.cc，.mobi，.中国，.公司等等几百种域名后缀。
+caozha-whois，是一个采用原生PHP写的域名Whois查询模块，支持全球大部分域名的whois查询，支持中文域名在内的多种域名后缀，包括：.com，.net，.cn，.com.cn，.org，.biz，.cc，.mobi，.中国，.公司等等几百种域名后缀。
 
 ### 更新说明：
 
@@ -8,9 +8,9 @@
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/caozha-domain-whois-query-php
+Gitee：https://gitee.com/caozha/caozha-whois
 
-GitHub：https://github.com/cao-zha/caozha-domain-whois-query-php
+GitHub：https://github.com/cao-zha/caozha-whois
 
 ### 使用方法
 
