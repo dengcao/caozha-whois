@@ -5,7 +5,7 @@
 <title>查询域名whois演示</title>
 <?php
 include_once("../src/caozha_whois.class.php");
-$caozha=new caozha_whois_query();
+$caozha=new caozha_whois();
 ?>
 </head>
 <body>
