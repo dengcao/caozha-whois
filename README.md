@@ -26,4 +26,6 @@ GitHub：https://github.com/cao-zha/caozha-whois
 
 体验地址：https://diannao.wang/tool/whois/
 
+### 预览
 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0723/150823_22d2c195_7397417.png "QQ图片20200723150614.png")
